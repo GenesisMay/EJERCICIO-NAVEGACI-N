@@ -47,10 +47,7 @@ export const Screen2 = () => {
       >
         <Text style={styles.div}>Dividir</Text>
       </TouchableOpacity>
-      
-
     </View>
-    
   )
 }
 
